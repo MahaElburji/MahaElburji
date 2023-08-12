@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!-- - 👨‍💻  -->
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://maha-elburji.netlify.app/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://portfolio-mahaelburji.vercel.app/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
